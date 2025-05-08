@@ -1,2 +1,2 @@
 MHpatools is a tool to screen and analyze microhaplotypes that are used in paternity testing.
-Uses can type "python MHpatools.py -h" in linux to see how to use it.
+Users can type "python MHpatools.py -h" in linux to see how to use it.
